@@ -5,5 +5,5 @@ Nesse projeto criamos uma A.P.I do open wheather Map para consumir os dados do c
 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/sesi-logo-1.png">
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hh9WgYHRuhU?si=-YDaBN-ENPKn9Tat" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Veja o vídeo d aplicativo em funcionamento:
+https://www.youtube.com/embed/hh9WgYHRuhU?si=-YDaBN-ENPKn9Tat
